@@ -47,7 +47,7 @@ Simply open https://delhi-metro-app-ochre.vercel.app in any browser.
 
 Option 2: Run C++ Program
 Clone the repo:
-git clone https://github.com/sumitksr/Delhi-Metro-App.git
+git clone (https://github.com/tamannayadav04/Delhi-Metro-App.git)
 cd Delhi-Metro-App
 Compile:
 g++ -o delhi_metro metroApp.cpp
@@ -76,4 +76,4 @@ Delhi-Metro-App/
 ├── images/             # Metro icons/images
 ├── output/             # Program output or logs
 └── .vscode/            # VSCode config files
-Made with ❤️ by tamanna
+Made with ❤️ by Tamanna Yadav
